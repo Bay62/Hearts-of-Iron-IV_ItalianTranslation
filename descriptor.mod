@@ -6,4 +6,4 @@ tags={
 	"Map"
 }
 name="Italian Translation"
-supported_version="1.10.8"
+supported_version="1.10.*"
